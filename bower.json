@@ -1,0 +1,20 @@
+{
+  "name": "jasmine-rhino-envjs",
+  "version": "0.0.1",
+  "description": "Example of running the Jasmine test framework 1.X with RhinoJS.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "./jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmccready/jasmine-rhino-envjs.git"
+  },
+  "author": "simpsonjulian",
+  "dependencies": {
+    "jasmine-core": "git://github.com/jasmine/jasmine.git#v1.3.1"
+  }
+}
